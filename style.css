@@ -1,0 +1,16 @@
+  body{ 
+    
+    background-color:white;
+    padding:12px;
+    margin:0 auto;
+    }
+
+.fieldset{
+    margin: 50px;
+}
+.legend{
+    background-color:#74b49b;
+    padding:5px;
+    border-radius:20px;
+    font-weight:bold;
+}
